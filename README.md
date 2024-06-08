@@ -19,6 +19,9 @@ Allows users to predict sales for new TV ad budget values using the trained mode
 <h2>Contributing</h2>
 Feel free to contribute by opening pull requests for improvements or bug fixes.
 
+<h2>Credit</h2>
+https://medium.com/@shuv.sdr/simple-linear-regression-in-python-a0069b325bf8
+
 
 
 
